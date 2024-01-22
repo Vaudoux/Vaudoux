@@ -1,6 +1,6 @@
 
 # Привет, меня зовут Илья!
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))
+![]([http://i.imgur.com/OUkLi.gif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))
 
 ---
 
