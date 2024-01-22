@@ -1,6 +1,6 @@
 
 # Привет, меня зовут Илья!
-![]([http://i.imgur.com/OUkLi.gif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))
+![](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
 
 ---
 
