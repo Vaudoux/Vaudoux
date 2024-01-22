@@ -1,5 +1,6 @@
 
 # Привет, меня зовут Илья!
+![image](https://github.com/Vaudoux/Vaudoux/assets/130421344/d81b3228-9a31-46ad-9062-b455496125e7)
 
 ---
 
